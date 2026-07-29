@@ -4,7 +4,7 @@
 > Dibangun bertahap dalam 5 fase. Semua alat development **gratis** (Ollama + Docker + PostgreSQL).
 > Tiap fase berdiri sendiri sebagai portofolio.
 >
-> **Dokumentasi desain lengkap** (proses bisnis, ERD, API, security, RAG): lihat [`docs/README.md`](./README.md).
+> **Dokumentasi desain lengkap** (proses bisnis, ERD, API, security, RAG): lihat `[docs/README.md](./README.md)`.
 
 ---
 
@@ -68,7 +68,7 @@ Di akhir proyek kamu akan mampu:
 | LLM cloud (opsional)  | Google Gemini / Groq free tier            | Gratis*        | Kalau mau model lebih pintar   |
 | Database              | PostgreSQL + pgvector                     | Gratis         | Vektor langsung di Postgres    |
 | Cache                 | Redis                                     | Gratis         | Docker                         |
-| Message queue         | RabbitMQ → Kafka                          | Gratis         | Docker                         |
+| Message queue         | Kafka                                     | Gratis         | Docker                         |
 | Search                | Elasticsearch/OpenSearch                  | Gratis         | Docker                         |
 | Object storage        | MinIO (S3-compatible)                     | Gratis         | Pengganti S3 lokal             |
 | Observability         | Langfuse (self-host), Prometheus, Grafana | Gratis         | Docker                         |
